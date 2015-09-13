@@ -5,6 +5,9 @@
 * Обектите се създават динамично в зависимост от параметрите предадени на Factory.
 * По принцип Factory e единствен в дадена програма, затова за създаването му често се използва шаблонът Singleton.
 
+![alt text](uml/FactoryMethod.png)
+
+
 ~~~c#
  // Factory Method pattern -- Structural example
 
