@@ -4,7 +4,7 @@
 * Когато създаваме хиляди идентични обекти, Flyweight може да намали изпозваната памет.
 * Flyweight е обект който намалява паметта като споделя колкото се може повече информация с останалите подобни обекти.
 
-![alt text](uml/Flyweight.png)
+![alt text](uml/Flyweight.jpg)
 
 ~~~c#
 public class Soldier:Unit
